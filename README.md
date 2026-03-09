@@ -19,14 +19,14 @@
 
 ## 📖 İçindekiler
 
-- [Ne İşe Yarıyor?](#-ne-i̇şe-yarıyor)
-- [Nasıl Çalışıyor?](#-nasıl-çalışıyor)
+- [Ne İşe Yarıyor?](#-ne-işe-yarıyor)
+- [Nasıl Çalışıyor?](#️-nasıl-çalışıyor)
 - [Özellikler](#-özellikler)
-- [Mimari](#-mimari)
+- [Mimari](#️-mimari)
 - [Proje Yapısı](#-proje-yapısı)
-- [Kullanılan Teknolojiler](#-kullanılan-teknolojiler)
-- [Kurulum ve Çalıştırma](#-kurulum-ve-çalıştırma)
-- [İlk Çalıştırmada Sertifika](#-i̇lk-çalıştırmada-sertifika)
+- [Kullanılan Teknolojiler](#️-kullanılan-teknolojiler)
+- [Kurulum ve Çalıştırma](#-kurulum-ve-nasıl-kullanılır)
+- [İlk Çalıştırmada Sertifika](#-ilk-çalıştırmada-sertifika)
 - [Ayarlar](#️-ayarlar)
 - [Katkıda Bulunmak](#-katkıda-bulunmak)
 - [Lisans](#-lisans)
@@ -226,8 +226,6 @@ Freezium/
 ---
 
 ### 🚀 Çalıştırma ve Nasıl Kullanılır?
-
-`Freezium.exe`'yi doğrudan çalıştırın.
 
 1. **Freezium'u çalıştırın.**
 2. Arayüzden **Start Proxy** butonuna basın. 
