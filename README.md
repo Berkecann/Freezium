@@ -225,15 +225,25 @@ Freezium/
 
 ---
 
-### Çalıştırma
+### 🚀 Çalıştırma ve Nasıl Kullanılır?
 
-`Freezium.exe`'yi çalıştır. İlk açılışta:
+`Freezium.exe`'yi doğrudan çalıştırın.
 
-1. `%LocalAppData%\Freezium\FreeziumCert.p12` konumunda bir Kök CA sertifikası oluşturulur.
-2. Windows **sertifikayı güven listesine eklemek** için onay ister — **Evet** de.
-3. **Start** butonuna bas, proxy devreye girer.
+1. **Freezium'u çalıştırın.**
+2. Arayüzden **Start Proxy** butonuna basın. 
+   *(Eğer FiddlerCore kök sertifikası daha önce yüklenmediyse Windows sizden onay isteyecektir, işlemi onaylamak için **Evet**'e basın).*
+3. Uygulama üzerindeki durum ibaresi **Status: Running** olacaktır.
+4. **Anizium.co**'ya gidin ve hesabınıza giriş yapın.
+5. Artık animeleri **ücretsiz bir şekilde (premiummuş gibi)** izlemenin keyfini çıkarabilirsiniz!
 
-Proxy çalışırken sistem proxy'si olarak kayıtlıdır. Küçültünce sistem tepsisine gider, oradan kontrol edebilirsin.
+> [!WARNING]
+> **Önemli Kapatma Uyarısı!**
+> Freezium'u kullanmayı bitirdiğinizde veya kapatırken kesinlikle **Stop Proxy** butonuna basmanız (veya uygulamayı kendi üzerinden normal bir şekilde kapatmanız) gerekir.
+> 
+> Normal şartlarda uygulama kapandığında proxy otomatik olarak devre dışı kalır. Ancak elektrik kesintisi, **BSOD (Mavi Ekran)** veya uygulamanın görev yöneticisinden zorla kapatılması gibi beklenmedik çökmelerde Windows sistem proxy ayarı **açık asılı kalabilir**.
+> 
+> **İnternete erişemiyorsanız Çözüm çok basittir:**
+> Windows Ayarları > Ağ ve İnternet > Ara Sunucu (Proxy) yolunu izleyin ve **"Ara sunucu kullan" (Use a proxy server)** seçeneğini manuel olarak **Kapalı** duruma getirin. İnternetiniz anında geri gelecektir.
 
 ---
 
